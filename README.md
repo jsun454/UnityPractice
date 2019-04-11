@@ -1,2 +1,2 @@
 # side-scroller-demo
-Practice for making a basic game in Unity
+2D side scroller game made with Unity
